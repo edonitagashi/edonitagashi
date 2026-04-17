@@ -28,9 +28,8 @@ when a project calls for it.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edonita_Gashi-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/edonita-gashi/)
-[![Email](https://img.shields.io/badge/Email-edonitagashi8@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:edonitagashi8@gmail.com)
-[![CV](https://img.shields.io/badge/CV-View_Resume-black?style=flat&logo=github)](https://github.com/edonitagashi/cv)
+- 📧 edonitagashi5@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/edonita-gashi/)
 
 ---
 
